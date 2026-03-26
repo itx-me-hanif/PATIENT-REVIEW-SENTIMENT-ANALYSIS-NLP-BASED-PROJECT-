@@ -241,7 +241,7 @@ Open source - Free to use and modify
 
 ## 👨‍💻 Author
 
-Healthcare Analytics Team  
+Muhammad Hanif 
 November 2025
 
 ---
