@@ -1,0 +1,6 @@
+patient_id,review,remove_reason,cleaned_review
+,======.,empty_after_cleaning,
+,------.,empty_after_cleaning,
+,085$%^%,empty_after_cleaning,
+, سدجدچگکدچگچدجکچدگئکدجکچبد\,non_english_characters,سدجدچگکدچگچدجکچدگئکدجکچبد
+,to the is,empty_after_cleaning,to the is

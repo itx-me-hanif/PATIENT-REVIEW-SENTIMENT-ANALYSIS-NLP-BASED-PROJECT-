@@ -1,0 +1,1518 @@
+patient_id,review
+PATIENT_0001,Very disappointed with the service. Would not return.
+PATIENT_0002,It was an okay experience. Nothing special.
+PATIENT_0003,Waste of time and money. Very unhelpful staff.
+PATIENT_0004,Very disappointed with the service. Would not return.
+PATIENT_0005,Best healthcare experience I've had. Very impressed!
+PATIENT_0006,The treatment was ineffective and expensive.
+PATIENT_0007,Terrible experience. Long wait times and rude staff.
+PATIENT_0008,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0009,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0010,It was just a regular doctor's visit.
+PATIENT_0011,Terrible experience. Long wait times and rude staff.
+PATIENT_0012,Amazing doctors and nurses. They really care about patients.
+PATIENT_0013,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0014,Waste of time and money. Very unhelpful staff.
+PATIENT_0015,Very knowledgeable doctor. Great communication and support.
+PATIENT_0016,The clinic is well-organized and the staff is friendly.
+PATIENT_0017,The appointment was standard. Service was average.
+PATIENT_0018,The clinic is well-organized and the staff is friendly.
+PATIENT_0019,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0020,The appointment was standard. Service was average.
+PATIENT_0021,Average service quality. Could be better or worse.
+PATIENT_0022,Would give negative stars if possible. Terrible experience.
+PATIENT_0023,Average service quality. Could be better or worse.
+PATIENT_0024,The appointment was standard. Service was average.
+PATIENT_0025,Felt rushed during my appointment. Not satisfied.
+PATIENT_0026,The clinic is well-organized and the staff is friendly.
+PATIENT_0027,The appointment was standard. Service was average.
+PATIENT_0028,Amazing doctors and nurses. They really care about patients.
+PATIENT_0029,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0030,Amazing doctors and nurses. They really care about patients.
+PATIENT_0031,Waste of time and money. Very unhelpful staff.
+PATIENT_0032,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0033,Waste of time and money. Very unhelpful staff.
+PATIENT_0034,Would give negative stars if possible. Terrible experience.
+PATIENT_0035,Top-notch medical services. Highly recommended!
+PATIENT_0036,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0037,Amazing doctors and nurses. They really care about patients.
+PATIENT_0038,Terrible experience. Long wait times and rude staff.
+PATIENT_0039,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0040,Would give negative stars if possible. Terrible experience.
+PATIENT_0041,It was an okay experience. Nothing special.
+PATIENT_0042,Would give negative stars if possible. Terrible experience.
+PATIENT_0043,Decent facilities but could be cleaner.
+PATIENT_0044,The doctor was adequate in their approach.
+PATIENT_0045,Terrible experience. Long wait times and rude staff.
+PATIENT_0046,The treatment was ineffective and expensive.
+PATIENT_0047,"It was fine, nothing to complain about."
+PATIENT_0048,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0049,The medical staff treated me with great respect and compassion.
+PATIENT_0050,Poor communication from the medical team.
+PATIENT_0051,Unprofessional behavior from the receptionist.
+PATIENT_0052,Decent facilities but could be cleaner.
+PATIENT_0053,The treatment was ineffective and expensive.
+PATIENT_0054,The experience was acceptable but unremarkable.
+PATIENT_0055,Outstanding care from the entire team. Thank you so much!
+PATIENT_0056,Terrible experience. Long wait times and rude staff.
+PATIENT_0057,The clinic is well-organized and the staff is friendly.
+PATIENT_0058,Amazing doctors and nurses. They really care about patients.
+PATIENT_0059,Very disappointed with the service. Would not return.
+PATIENT_0060,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0061,Felt rushed during my appointment. Not satisfied.
+PATIENT_0062,The experience was acceptable but unremarkable.
+PATIENT_0063,Terrible experience. Long wait times and rude staff.
+PATIENT_0064,Average service quality. Could be better or worse.
+PATIENT_0065,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0066,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0067,Would give negative stars if possible. Terrible experience.
+PATIENT_0068,Amazing doctors and nurses. They really care about patients.
+PATIENT_0069,Poor communication from the medical team.
+PATIENT_0070,The treatment was ineffective and expensive.
+PATIENT_0071,Very disappointed with the service. Would not return.
+PATIENT_0072,Unprofessional behavior from the receptionist.
+PATIENT_0073,The appointment was standard. Service was average.
+PATIENT_0074,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0075,The medical staff treated me with great respect and compassion.
+PATIENT_0076,Outstanding care from the entire team. Thank you so much!
+PATIENT_0077,It was just a regular doctor's visit.
+PATIENT_0078,Terrible experience. Long wait times and rude staff.
+PATIENT_0079,Would give negative stars if possible. Terrible experience.
+PATIENT_0080,Poor communication from the medical team.
+PATIENT_0081,Best healthcare experience I've had. Very impressed!
+PATIENT_0082,The doctor was adequate in their approach.
+PATIENT_0083,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0084,The experience was acceptable but unremarkable.
+PATIENT_0085,Average service quality. Could be better or worse.
+PATIENT_0086,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0087,Waste of time and money. Very unhelpful staff.
+PATIENT_0088,Standard healthcare service. Met my basic needs.
+PATIENT_0089,Average service quality. Could be better or worse.
+PATIENT_0090,"It was fine, nothing to complain about."
+PATIENT_0091,The medical staff treated me with great respect and compassion.
+PATIENT_0092,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0093,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0094,Waste of time and money. Very unhelpful staff.
+PATIENT_0095,Felt rushed during my appointment. Not satisfied.
+PATIENT_0096,The clinic is well-organized and the staff is friendly.
+PATIENT_0097,Very disappointed with the service. Would not return.
+PATIENT_0098,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0099,Very knowledgeable doctor. Great communication and support.
+PATIENT_0100,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0101,The clinic is well-organized and the staff is friendly.
+PATIENT_0102,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0103,Best healthcare experience I've had. Very impressed!
+PATIENT_0104,Outstanding care from the entire team. Thank you so much!
+PATIENT_0105,The doctor was adequate in their approach.
+PATIENT_0106,Poor communication from the medical team.
+PATIENT_0107,The doctor was adequate in their approach.
+PATIENT_0108,Very disappointed with the service. Would not return.
+PATIENT_0109,Dirty facilities and poor organization. Not impressed.
+PATIENT_0110,Very disappointed with the service. Would not return.
+PATIENT_0111,Unprofessional behavior from the receptionist.
+PATIENT_0112,Very disappointed with the service. Would not return.
+PATIENT_0113,The medical staff treated me with great respect and compassion.
+PATIENT_0114,Terrible experience. Long wait times and rude staff.
+PATIENT_0115,Waste of time and money. Very unhelpful staff.
+PATIENT_0116,Very knowledgeable doctor. Great communication and support.
+PATIENT_0117,The doctor was adequate in their approach.
+PATIENT_0118,Felt rushed during my appointment. Not satisfied.
+PATIENT_0119,Waste of time and money. Very unhelpful staff.
+PATIENT_0120,It was an okay experience. Nothing special.
+PATIENT_0121,The clinic is well-organized and the staff is friendly.
+PATIENT_0122,Dirty facilities and poor organization. Not impressed.
+PATIENT_0123,Terrible experience. Long wait times and rude staff.
+PATIENT_0124,Standard healthcare service. Met my basic needs.
+PATIENT_0125,Very disappointed with the service. Would not return.
+PATIENT_0126,"It was fine, nothing to complain about."
+PATIENT_0127,The clinic is well-organized and the staff is friendly.
+PATIENT_0128,The experience was acceptable but unremarkable.
+PATIENT_0129,Decent facilities but could be cleaner.
+PATIENT_0130,It was an okay experience. Nothing special.
+PATIENT_0131,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0132,Standard healthcare service. Met my basic needs.
+PATIENT_0133,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0134,The doctor was adequate in their approach.
+PATIENT_0135,Outstanding care from the entire team. Thank you so much!
+PATIENT_0136,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0137,Waste of time and money. Very unhelpful staff.
+PATIENT_0138,Terrible experience. Long wait times and rude staff.
+PATIENT_0139,Best healthcare experience I've had. Very impressed!
+PATIENT_0140,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0141,Would give negative stars if possible. Terrible experience.
+PATIENT_0142,Waste of time and money. Very unhelpful staff.
+PATIENT_0143,Standard healthcare service. Met my basic needs.
+PATIENT_0144,Waste of time and money. Very unhelpful staff.
+PATIENT_0145,It was just a regular doctor's visit.
+PATIENT_0146,Poor communication from the medical team.
+PATIENT_0147,The treatment was ineffective and expensive.
+PATIENT_0148,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0149,Outstanding care from the entire team. Thank you so much!
+PATIENT_0150,It was an okay experience. Nothing special.
+PATIENT_0151,The appointment was standard. Service was average.
+PATIENT_0152,The treatment was ineffective and expensive.
+PATIENT_0153,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0154,Waste of time and money. Very unhelpful staff.
+PATIENT_0155,Would give negative stars if possible. Terrible experience.
+PATIENT_0156,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0157,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0158,Average service quality. Could be better or worse.
+PATIENT_0159,Very disappointed with the service. Would not return.
+PATIENT_0160,Terrible experience. Long wait times and rude staff.
+PATIENT_0161,Waste of time and money. Very unhelpful staff.
+PATIENT_0162,Dirty facilities and poor organization. Not impressed.
+PATIENT_0163,Very disappointed with the service. Would not return.
+PATIENT_0164,The doctor was adequate in their approach.
+PATIENT_0165,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0166,Outstanding care from the entire team. Thank you so much!
+PATIENT_0167,"It was fine, nothing to complain about."
+PATIENT_0168,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0169,Decent facilities but could be cleaner.
+PATIENT_0170,Unprofessional behavior from the receptionist.
+PATIENT_0171,The treatment was ineffective and expensive.
+PATIENT_0172,The clinic is well-organized and the staff is friendly.
+PATIENT_0173,Very knowledgeable doctor. Great communication and support.
+PATIENT_0174,Average service quality. Could be better or worse.
+PATIENT_0175,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0176,Outstanding care from the entire team. Thank you so much!
+PATIENT_0177,"It was fine, nothing to complain about."
+PATIENT_0178,The medical staff treated me with great respect and compassion.
+PATIENT_0179,It was an okay experience. Nothing special.
+PATIENT_0180,Standard healthcare service. Met my basic needs.
+PATIENT_0181,The medical staff treated me with great respect and compassion.
+PATIENT_0182,Very knowledgeable doctor. Great communication and support.
+PATIENT_0183,Top-notch medical services. Highly recommended!
+PATIENT_0184,Standard healthcare service. Met my basic needs.
+PATIENT_0185,"It was fine, nothing to complain about."
+PATIENT_0186,The clinic is well-organized and the staff is friendly.
+PATIENT_0187,Felt rushed during my appointment. Not satisfied.
+PATIENT_0188,Top-notch medical services. Highly recommended!
+PATIENT_0189,Very knowledgeable doctor. Great communication and support.
+PATIENT_0190,Average service quality. Could be better or worse.
+PATIENT_0191,The doctor was adequate in their approach.
+PATIENT_0192,Waste of time and money. Very unhelpful staff.
+PATIENT_0193,Best healthcare experience I've had. Very impressed!
+PATIENT_0194,"It was fine, nothing to complain about."
+PATIENT_0195,It was just a regular doctor's visit.
+PATIENT_0196,Terrible experience. Long wait times and rude staff.
+PATIENT_0197,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0198,It was just a regular doctor's visit.
+PATIENT_0199,Average service quality. Could be better or worse.
+PATIENT_0200,The doctor was adequate in their approach.
+PATIENT_0201,Poor communication from the medical team.
+PATIENT_0202,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0203,The treatment was ineffective and expensive.
+PATIENT_0204,Amazing doctors and nurses. They really care about patients.
+PATIENT_0205,Unprofessional behavior from the receptionist.
+PATIENT_0206,The doctor was adequate in their approach.
+PATIENT_0207,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0208,Top-notch medical services. Highly recommended!
+PATIENT_0209,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0210,Dirty facilities and poor organization. Not impressed.
+PATIENT_0211,Amazing doctors and nurses. They really care about patients.
+PATIENT_0212,"It was fine, nothing to complain about."
+PATIENT_0213,Felt rushed during my appointment. Not satisfied.
+PATIENT_0214,The experience was acceptable but unremarkable.
+PATIENT_0215,The clinic is well-organized and the staff is friendly.
+PATIENT_0216,Unprofessional behavior from the receptionist.
+PATIENT_0217,Terrible experience. Long wait times and rude staff.
+PATIENT_0218,Very disappointed with the service. Would not return.
+PATIENT_0219,Average service quality. Could be better or worse.
+PATIENT_0220,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0221,The treatment was ineffective and expensive.
+PATIENT_0222,The medical staff treated me with great respect and compassion.
+PATIENT_0223,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0224,Top-notch medical services. Highly recommended!
+PATIENT_0225,Average service quality. Could be better or worse.
+PATIENT_0226,The appointment was standard. Service was average.
+PATIENT_0227,Amazing doctors and nurses. They really care about patients.
+PATIENT_0228,The clinic is well-organized and the staff is friendly.
+PATIENT_0229,Unprofessional behavior from the receptionist.
+PATIENT_0230,The appointment was standard. Service was average.
+PATIENT_0231,The clinic is well-organized and the staff is friendly.
+PATIENT_0232,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0233,Very knowledgeable doctor. Great communication and support.
+PATIENT_0234,Terrible experience. Long wait times and rude staff.
+PATIENT_0235,Top-notch medical services. Highly recommended!
+PATIENT_0236,It was an okay experience. Nothing special.
+PATIENT_0237,The clinic is well-organized and the staff is friendly.
+PATIENT_0238,Poor communication from the medical team.
+PATIENT_0239,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0240,Terrible experience. Long wait times and rude staff.
+PATIENT_0241,Standard healthcare service. Met my basic needs.
+PATIENT_0242,The experience was acceptable but unremarkable.
+PATIENT_0243,The clinic is well-organized and the staff is friendly.
+PATIENT_0244,Would give negative stars if possible. Terrible experience.
+PATIENT_0245,Amazing doctors and nurses. They really care about patients.
+PATIENT_0246,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0247,Felt rushed during my appointment. Not satisfied.
+PATIENT_0248,The clinic is well-organized and the staff is friendly.
+PATIENT_0249,The experience was acceptable but unremarkable.
+PATIENT_0250,Waste of time and money. Very unhelpful staff.
+PATIENT_0251,The clinic is well-organized and the staff is friendly.
+PATIENT_0252,Standard healthcare service. Met my basic needs.
+PATIENT_0253,The treatment was ineffective and expensive.
+PATIENT_0254,"It was fine, nothing to complain about."
+PATIENT_0255,Decent facilities but could be cleaner.
+PATIENT_0256,Very disappointed with the service. Would not return.
+PATIENT_0257,The treatment was ineffective and expensive.
+PATIENT_0258,It was just a regular doctor's visit.
+PATIENT_0259,Best healthcare experience I've had. Very impressed!
+PATIENT_0260,Amazing doctors and nurses. They really care about patients.
+PATIENT_0261,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0262,The treatment was ineffective and expensive.
+PATIENT_0263,Best healthcare experience I've had. Very impressed!
+PATIENT_0264,The experience was acceptable but unremarkable.
+PATIENT_0265,The medical staff treated me with great respect and compassion.
+PATIENT_0266,Standard healthcare service. Met my basic needs.
+PATIENT_0267,Standard healthcare service. Met my basic needs.
+PATIENT_0268,Poor communication from the medical team.
+PATIENT_0269,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0270,Waste of time and money. Very unhelpful staff.
+PATIENT_0271,Very knowledgeable doctor. Great communication and support.
+PATIENT_0272,The doctor was adequate in their approach.
+PATIENT_0273,Amazing doctors and nurses. They really care about patients.
+PATIENT_0274,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0275,Very knowledgeable doctor. Great communication and support.
+PATIENT_0276,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0277,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0278,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0279,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0280,Amazing doctors and nurses. They really care about patients.
+PATIENT_0281,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0282,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0283,Very disappointed with the service. Would not return.
+PATIENT_0284,Amazing doctors and nurses. They really care about patients.
+PATIENT_0285,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0286,Average service quality. Could be better or worse.
+PATIENT_0287,The experience was acceptable but unremarkable.
+PATIENT_0288,Top-notch medical services. Highly recommended!
+PATIENT_0289,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0290,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0291,Outstanding care from the entire team. Thank you so much!
+PATIENT_0292,Would give negative stars if possible. Terrible experience.
+PATIENT_0293,It was just a regular doctor's visit.
+PATIENT_0294,Average service quality. Could be better or worse.
+PATIENT_0295,The appointment was standard. Service was average.
+PATIENT_0296,Decent facilities but could be cleaner.
+PATIENT_0297,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0298,Unprofessional behavior from the receptionist.
+PATIENT_0299,Amazing doctors and nurses. They really care about patients.
+PATIENT_0300,Felt rushed during my appointment. Not satisfied.
+PATIENT_0301,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0302,The medical staff treated me with great respect and compassion.
+PATIENT_0303,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0304,Terrible experience. Long wait times and rude staff.
+PATIENT_0305,The treatment was ineffective and expensive.
+PATIENT_0306,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0307,Amazing doctors and nurses. They really care about patients.
+PATIENT_0308,Amazing doctors and nurses. They really care about patients.
+PATIENT_0309,Unprofessional behavior from the receptionist.
+PATIENT_0310,Average service quality. Could be better or worse.
+PATIENT_0311,Poor communication from the medical team.
+PATIENT_0312,Would give negative stars if possible. Terrible experience.
+PATIENT_0313,Best healthcare experience I've had. Very impressed!
+PATIENT_0314,It was just a regular doctor's visit.
+PATIENT_0315,Terrible experience. Long wait times and rude staff.
+PATIENT_0316,It was an okay experience. Nothing special.
+PATIENT_0317,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0318,Standard healthcare service. Met my basic needs.
+PATIENT_0319,Best healthcare experience I've had. Very impressed!
+PATIENT_0320,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0321,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0322,Top-notch medical services. Highly recommended!
+PATIENT_0323,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0324,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0325,"It was fine, nothing to complain about."
+PATIENT_0326,Terrible experience. Long wait times and rude staff.
+PATIENT_0327,It was an okay experience. Nothing special.
+PATIENT_0328,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0329,It was just a regular doctor's visit.
+PATIENT_0330,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0331,Very knowledgeable doctor. Great communication and support.
+PATIENT_0332,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0333,Best healthcare experience I've had. Very impressed!
+PATIENT_0334,The experience was acceptable but unremarkable.
+PATIENT_0335,The treatment was ineffective and expensive.
+PATIENT_0336,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0337,The treatment was ineffective and expensive.
+PATIENT_0338,The appointment was standard. Service was average.
+PATIENT_0339,The clinic is well-organized and the staff is friendly.
+PATIENT_0340,Top-notch medical services. Highly recommended!
+PATIENT_0341,Average service quality. Could be better or worse.
+PATIENT_0342,Unprofessional behavior from the receptionist.
+PATIENT_0343,Very disappointed with the service. Would not return.
+PATIENT_0344,Amazing doctors and nurses. They really care about patients.
+PATIENT_0345,It was an okay experience. Nothing special.
+PATIENT_0346,Average service quality. Could be better or worse.
+PATIENT_0347,Terrible experience. Long wait times and rude staff.
+PATIENT_0348,The treatment was ineffective and expensive.
+PATIENT_0349,Unprofessional behavior from the receptionist.
+PATIENT_0350,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0351,The experience was acceptable but unremarkable.
+PATIENT_0352,Felt rushed during my appointment. Not satisfied.
+PATIENT_0353,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0354,It was just a regular doctor's visit.
+PATIENT_0355,The doctor was adequate in their approach.
+PATIENT_0356,Very knowledgeable doctor. Great communication and support.
+PATIENT_0357,The medical staff treated me with great respect and compassion.
+PATIENT_0358,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0359,Dirty facilities and poor organization. Not impressed.
+PATIENT_0360,Very disappointed with the service. Would not return.
+PATIENT_0361,Standard healthcare service. Met my basic needs.
+PATIENT_0362,Waste of time and money. Very unhelpful staff.
+PATIENT_0363,Felt rushed during my appointment. Not satisfied.
+PATIENT_0364,Standard healthcare service. Met my basic needs.
+PATIENT_0365,Average service quality. Could be better or worse.
+PATIENT_0366,The appointment was standard. Service was average.
+PATIENT_0367,Best healthcare experience I've had. Very impressed!
+PATIENT_0368,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0369,It was just a regular doctor's visit.
+PATIENT_0370,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0371,Poor communication from the medical team.
+PATIENT_0372,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0373,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0374,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0375,Amazing doctors and nurses. They really care about patients.
+PATIENT_0376,Standard healthcare service. Met my basic needs.
+PATIENT_0377,The clinic is well-organized and the staff is friendly.
+PATIENT_0378,Would give negative stars if possible. Terrible experience.
+PATIENT_0379,It was an okay experience. Nothing special.
+PATIENT_0380,It was an okay experience. Nothing special.
+PATIENT_0381,Outstanding care from the entire team. Thank you so much!
+PATIENT_0382,The medical staff treated me with great respect and compassion.
+PATIENT_0383,Standard healthcare service. Met my basic needs.
+PATIENT_0384,Average service quality. Could be better or worse.
+PATIENT_0385,Outstanding care from the entire team. Thank you so much!
+PATIENT_0386,The appointment was standard. Service was average.
+PATIENT_0387,The treatment was ineffective and expensive.
+PATIENT_0388,Very disappointed with the service. Would not return.
+PATIENT_0389,Outstanding care from the entire team. Thank you so much!
+PATIENT_0390,Amazing doctors and nurses. They really care about patients.
+PATIENT_0391,Terrible experience. Long wait times and rude staff.
+PATIENT_0392,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0393,The medical staff treated me with great respect and compassion.
+PATIENT_0394,Poor communication from the medical team.
+PATIENT_0395,Unprofessional behavior from the receptionist.
+PATIENT_0396,It was an okay experience. Nothing special.
+PATIENT_0397,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0398,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0399,Amazing doctors and nurses. They really care about patients.
+PATIENT_0400,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0401,The clinic is well-organized and the staff is friendly.
+PATIENT_0402,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0403,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0404,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0405,Top-notch medical services. Highly recommended!
+PATIENT_0406,Waste of time and money. Very unhelpful staff.
+PATIENT_0407,Amazing doctors and nurses. They really care about patients.
+PATIENT_0408,Poor communication from the medical team.
+PATIENT_0409,Unprofessional behavior from the receptionist.
+PATIENT_0410,Would give negative stars if possible. Terrible experience.
+PATIENT_0411,Dirty facilities and poor organization. Not impressed.
+PATIENT_0412,The medical staff treated me with great respect and compassion.
+PATIENT_0413,Felt rushed during my appointment. Not satisfied.
+PATIENT_0414,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0415,Terrible experience. Long wait times and rude staff.
+PATIENT_0416,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0417,Outstanding care from the entire team. Thank you so much!
+PATIENT_0418,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0419,Decent facilities but could be cleaner.
+PATIENT_0420,Amazing doctors and nurses. They really care about patients.
+PATIENT_0421,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0422,Waste of time and money. Very unhelpful staff.
+PATIENT_0423,Very knowledgeable doctor. Great communication and support.
+PATIENT_0424,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0425,Amazing doctors and nurses. They really care about patients.
+PATIENT_0426,Waste of time and money. Very unhelpful staff.
+PATIENT_0427,The clinic is well-organized and the staff is friendly.
+PATIENT_0428,Poor communication from the medical team.
+PATIENT_0429,The experience was acceptable but unremarkable.
+PATIENT_0430,Terrible experience. Long wait times and rude staff.
+PATIENT_0431,It was an okay experience. Nothing special.
+PATIENT_0432,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0433,The appointment was standard. Service was average.
+PATIENT_0434,Very disappointed with the service. Would not return.
+PATIENT_0435,"It was fine, nothing to complain about."
+PATIENT_0436,Felt rushed during my appointment. Not satisfied.
+PATIENT_0437,The appointment was standard. Service was average.
+PATIENT_0438,Waste of time and money. Very unhelpful staff.
+PATIENT_0439,It was just a regular doctor's visit.
+PATIENT_0440,The medical staff treated me with great respect and compassion.
+PATIENT_0441,The treatment was ineffective and expensive.
+PATIENT_0442,The appointment was standard. Service was average.
+PATIENT_0443,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0444,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0445,Dirty facilities and poor organization. Not impressed.
+PATIENT_0446,Would give negative stars if possible. Terrible experience.
+PATIENT_0447,The appointment was standard. Service was average.
+PATIENT_0448,It was just a regular doctor's visit.
+PATIENT_0449,The experience was acceptable but unremarkable.
+PATIENT_0450,Waste of time and money. Very unhelpful staff.
+PATIENT_0451,Terrible experience. Long wait times and rude staff.
+PATIENT_0452,Decent facilities but could be cleaner.
+PATIENT_0453,Best healthcare experience I've had. Very impressed!
+PATIENT_0454,Amazing doctors and nurses. They really care about patients.
+PATIENT_0455,Poor communication from the medical team.
+PATIENT_0456,Dirty facilities and poor organization. Not impressed.
+PATIENT_0457,Top-notch medical services. Highly recommended!
+PATIENT_0458,Unprofessional behavior from the receptionist.
+PATIENT_0459,Would give negative stars if possible. Terrible experience.
+PATIENT_0460,Poor communication from the medical team.
+PATIENT_0461,Very disappointed with the service. Would not return.
+PATIENT_0462,Poor communication from the medical team.
+PATIENT_0463,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0464,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0465,Terrible experience. Long wait times and rude staff.
+PATIENT_0466,Would give negative stars if possible. Terrible experience.
+PATIENT_0467,Poor communication from the medical team.
+PATIENT_0468,Amazing doctors and nurses. They really care about patients.
+PATIENT_0469,Dirty facilities and poor organization. Not impressed.
+PATIENT_0470,Amazing doctors and nurses. They really care about patients.
+PATIENT_0471,Dirty facilities and poor organization. Not impressed.
+PATIENT_0472,Would give negative stars if possible. Terrible experience.
+PATIENT_0473,Very disappointed with the service. Would not return.
+PATIENT_0474,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0475,Very knowledgeable doctor. Great communication and support.
+PATIENT_0476,Standard healthcare service. Met my basic needs.
+PATIENT_0477,Felt rushed during my appointment. Not satisfied.
+PATIENT_0478,Standard healthcare service. Met my basic needs.
+PATIENT_0479,Very knowledgeable doctor. Great communication and support.
+PATIENT_0480,Average service quality. Could be better or worse.
+PATIENT_0481,Felt rushed during my appointment. Not satisfied.
+PATIENT_0482,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0483,Poor communication from the medical team.
+PATIENT_0484,Very knowledgeable doctor. Great communication and support.
+PATIENT_0485,Dirty facilities and poor organization. Not impressed.
+PATIENT_0486,Outstanding care from the entire team. Thank you so much!
+PATIENT_0487,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0488,Best healthcare experience I've had. Very impressed!
+PATIENT_0489,Best healthcare experience I've had. Very impressed!
+PATIENT_0490,Dirty facilities and poor organization. Not impressed.
+PATIENT_0491,The medical staff treated me with great respect and compassion.
+PATIENT_0492,Average service quality. Could be better or worse.
+PATIENT_0493,Standard healthcare service. Met my basic needs.
+PATIENT_0494,The clinic is well-organized and the staff is friendly.
+PATIENT_0495,It was just a regular doctor's visit.
+PATIENT_0496,"It was fine, nothing to complain about."
+PATIENT_0497,Standard healthcare service. Met my basic needs.
+PATIENT_0498,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0499,"It was fine, nothing to complain about."
+PATIENT_0500,Waste of time and money. Very unhelpful staff.
+PATIENT_0501,The doctor was adequate in their approach.
+PATIENT_0502,The doctor was adequate in their approach.
+PATIENT_0503,Terrible experience. Long wait times and rude staff.
+PATIENT_0504,It was just a regular doctor's visit.
+PATIENT_0505,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0506,Dirty facilities and poor organization. Not impressed.
+PATIENT_0507,Unprofessional behavior from the receptionist.
+PATIENT_0508,Best healthcare experience I've had. Very impressed!
+PATIENT_0509,Outstanding care from the entire team. Thank you so much!
+PATIENT_0510,Terrible experience. Long wait times and rude staff.
+PATIENT_0511,Waste of time and money. Very unhelpful staff.
+PATIENT_0512,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0513,Very knowledgeable doctor. Great communication and support.
+PATIENT_0514,Very knowledgeable doctor. Great communication and support.
+PATIENT_0515,Very disappointed with the service. Would not return.
+PATIENT_0516,Very disappointed with the service. Would not return.
+PATIENT_0517,Average service quality. Could be better or worse.
+PATIENT_0518,Decent facilities but could be cleaner.
+PATIENT_0519,The treatment was ineffective and expensive.
+PATIENT_0520,It was an okay experience. Nothing special.
+PATIENT_0521,Very disappointed with the service. Would not return.
+PATIENT_0522,Dirty facilities and poor organization. Not impressed.
+PATIENT_0523,Waste of time and money. Very unhelpful staff.
+PATIENT_0524,The appointment was standard. Service was average.
+PATIENT_0525,Felt rushed during my appointment. Not satisfied.
+PATIENT_0526,Terrible experience. Long wait times and rude staff.
+PATIENT_0527,The treatment was ineffective and expensive.
+PATIENT_0528,Felt rushed during my appointment. Not satisfied.
+PATIENT_0529,Very knowledgeable doctor. Great communication and support.
+PATIENT_0530,The appointment was standard. Service was average.
+PATIENT_0531,Dirty facilities and poor organization. Not impressed.
+PATIENT_0532,The medical staff treated me with great respect and compassion.
+PATIENT_0533,The treatment was ineffective and expensive.
+PATIENT_0534,"It was fine, nothing to complain about."
+PATIENT_0535,The appointment was standard. Service was average.
+PATIENT_0536,It was just a regular doctor's visit.
+PATIENT_0537,Best healthcare experience I've had. Very impressed!
+PATIENT_0538,Waste of time and money. Very unhelpful staff.
+PATIENT_0539,"It was fine, nothing to complain about."
+PATIENT_0540,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0541,Outstanding care from the entire team. Thank you so much!
+PATIENT_0542,Dirty facilities and poor organization. Not impressed.
+PATIENT_0543,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0544,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0545,Best healthcare experience I've had. Very impressed!
+PATIENT_0546,Felt rushed during my appointment. Not satisfied.
+PATIENT_0547,The clinic is well-organized and the staff is friendly.
+PATIENT_0548,It was just a regular doctor's visit.
+PATIENT_0549,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0550,It was just a regular doctor's visit.
+PATIENT_0551,The appointment was standard. Service was average.
+PATIENT_0552,It was an okay experience. Nothing special.
+PATIENT_0553,The appointment was standard. Service was average.
+PATIENT_0554,Outstanding care from the entire team. Thank you so much!
+PATIENT_0555,The clinic is well-organized and the staff is friendly.
+PATIENT_0556,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0557,Best healthcare experience I've had. Very impressed!
+PATIENT_0558,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0559,Unprofessional behavior from the receptionist.
+PATIENT_0560,Terrible experience. Long wait times and rude staff.
+PATIENT_0561,Unprofessional behavior from the receptionist.
+PATIENT_0562,Average service quality. Could be better or worse.
+PATIENT_0563,Waste of time and money. Very unhelpful staff.
+PATIENT_0564,The experience was acceptable but unremarkable.
+PATIENT_0565,It was an okay experience. Nothing special.
+PATIENT_0566,Dirty facilities and poor organization. Not impressed.
+PATIENT_0567,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0568,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0569,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0570,Terrible experience. Long wait times and rude staff.
+PATIENT_0571,Standard healthcare service. Met my basic needs.
+PATIENT_0572,Waste of time and money. Very unhelpful staff.
+PATIENT_0573,The experience was acceptable but unremarkable.
+PATIENT_0574,Poor communication from the medical team.
+PATIENT_0575,The appointment was standard. Service was average.
+PATIENT_0576,Decent facilities but could be cleaner.
+PATIENT_0577,Terrible experience. Long wait times and rude staff.
+PATIENT_0578,"It was fine, nothing to complain about."
+PATIENT_0579,The treatment was ineffective and expensive.
+PATIENT_0580,Top-notch medical services. Highly recommended!
+PATIENT_0581,The medical staff treated me with great respect and compassion.
+PATIENT_0582,Unprofessional behavior from the receptionist.
+PATIENT_0583,Standard healthcare service. Met my basic needs.
+PATIENT_0584,Dirty facilities and poor organization. Not impressed.
+PATIENT_0585,The medical staff treated me with great respect and compassion.
+PATIENT_0586,The appointment was standard. Service was average.
+PATIENT_0587,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0588,Average service quality. Could be better or worse.
+PATIENT_0589,The doctor was adequate in their approach.
+PATIENT_0590,Dirty facilities and poor organization. Not impressed.
+PATIENT_0591,Best healthcare experience I've had. Very impressed!
+PATIENT_0592,Outstanding care from the entire team. Thank you so much!
+PATIENT_0593,Terrible experience. Long wait times and rude staff.
+PATIENT_0594,Felt rushed during my appointment. Not satisfied.
+PATIENT_0595,The treatment was ineffective and expensive.
+PATIENT_0596,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0597,"It was fine, nothing to complain about."
+PATIENT_0598,Poor communication from the medical team.
+PATIENT_0599,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0600,"It was fine, nothing to complain about."
+PATIENT_0601,Poor communication from the medical team.
+PATIENT_0602,"It was fine, nothing to complain about."
+PATIENT_0603,Decent facilities but could be cleaner.
+PATIENT_0604,Dirty facilities and poor organization. Not impressed.
+PATIENT_0605,Felt rushed during my appointment. Not satisfied.
+PATIENT_0606,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0607,Waste of time and money. Very unhelpful staff.
+PATIENT_0608,Amazing doctors and nurses. They really care about patients.
+PATIENT_0609,Very knowledgeable doctor. Great communication and support.
+PATIENT_0610,Very knowledgeable doctor. Great communication and support.
+PATIENT_0611,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0612,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0613,Waste of time and money. Very unhelpful staff.
+PATIENT_0614,The medical staff treated me with great respect and compassion.
+PATIENT_0615,"It was fine, nothing to complain about."
+PATIENT_0616,Outstanding care from the entire team. Thank you so much!
+PATIENT_0617,The clinic is well-organized and the staff is friendly.
+PATIENT_0618,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0619,It was an okay experience. Nothing special.
+PATIENT_0620,Outstanding care from the entire team. Thank you so much!
+PATIENT_0621,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0622,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0623,It was an okay experience. Nothing special.
+PATIENT_0624,The experience was acceptable but unremarkable.
+PATIENT_0625,Outstanding care from the entire team. Thank you so much!
+PATIENT_0626,The clinic is well-organized and the staff is friendly.
+PATIENT_0627,Waste of time and money. Very unhelpful staff.
+PATIENT_0628,Unprofessional behavior from the receptionist.
+PATIENT_0629,The medical staff treated me with great respect and compassion.
+PATIENT_0630,Felt rushed during my appointment. Not satisfied.
+PATIENT_0631,The doctor was adequate in their approach.
+PATIENT_0632,Felt rushed during my appointment. Not satisfied.
+PATIENT_0633,Dirty facilities and poor organization. Not impressed.
+PATIENT_0634,The treatment was ineffective and expensive.
+PATIENT_0635,Top-notch medical services. Highly recommended!
+PATIENT_0636,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0637,Average service quality. Could be better or worse.
+PATIENT_0638,Top-notch medical services. Highly recommended!
+PATIENT_0639,"It was fine, nothing to complain about."
+PATIENT_0640,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0641,It was an okay experience. Nothing special.
+PATIENT_0642,Unprofessional behavior from the receptionist.
+PATIENT_0643,Dirty facilities and poor organization. Not impressed.
+PATIENT_0644,Best healthcare experience I've had. Very impressed!
+PATIENT_0645,Decent facilities but could be cleaner.
+PATIENT_0646,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0647,It was just a regular doctor's visit.
+PATIENT_0648,It was just a regular doctor's visit.
+PATIENT_0649,It was an okay experience. Nothing special.
+PATIENT_0650,"It was fine, nothing to complain about."
+PATIENT_0651,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0652,Best healthcare experience I've had. Very impressed!
+PATIENT_0653,Waste of time and money. Very unhelpful staff.
+PATIENT_0654,Average service quality. Could be better or worse.
+PATIENT_0655,Poor communication from the medical team.
+PATIENT_0656,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0657,Waste of time and money. Very unhelpful staff.
+PATIENT_0658,The medical staff treated me with great respect and compassion.
+PATIENT_0659,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0660,Poor communication from the medical team.
+PATIENT_0661,Average service quality. Could be better or worse.
+PATIENT_0662,It was just a regular doctor's visit.
+PATIENT_0663,Felt rushed during my appointment. Not satisfied.
+PATIENT_0664,Waste of time and money. Very unhelpful staff.
+PATIENT_0665,"It was fine, nothing to complain about."
+PATIENT_0666,Very disappointed with the service. Would not return.
+PATIENT_0667,Amazing doctors and nurses. They really care about patients.
+PATIENT_0668,Dirty facilities and poor organization. Not impressed.
+PATIENT_0669,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0670,Best healthcare experience I've had. Very impressed!
+PATIENT_0671,Felt rushed during my appointment. Not satisfied.
+PATIENT_0672,Dirty facilities and poor organization. Not impressed.
+PATIENT_0673,Outstanding care from the entire team. Thank you so much!
+PATIENT_0674,Decent facilities but could be cleaner.
+PATIENT_0675,Amazing doctors and nurses. They really care about patients.
+PATIENT_0676,The experience was acceptable but unremarkable.
+PATIENT_0677,The doctor was adequate in their approach.
+PATIENT_0678,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0679,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0680,The clinic is well-organized and the staff is friendly.
+PATIENT_0681,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0682,The clinic is well-organized and the staff is friendly.
+PATIENT_0683,Outstanding care from the entire team. Thank you so much!
+PATIENT_0684,Amazing doctors and nurses. They really care about patients.
+PATIENT_0685,Terrible experience. Long wait times and rude staff.
+PATIENT_0686,Terrible experience. Long wait times and rude staff.
+PATIENT_0687,The clinic is well-organized and the staff is friendly.
+PATIENT_0688,Would give negative stars if possible. Terrible experience.
+PATIENT_0689,The treatment was ineffective and expensive.
+PATIENT_0690,Would give negative stars if possible. Terrible experience.
+PATIENT_0691,"It was fine, nothing to complain about."
+PATIENT_0692,Unprofessional behavior from the receptionist.
+PATIENT_0693,Would give negative stars if possible. Terrible experience.
+PATIENT_0694,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0695,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0696,Best healthcare experience I've had. Very impressed!
+PATIENT_0697,It was just a regular doctor's visit.
+PATIENT_0698,Best healthcare experience I've had. Very impressed!
+PATIENT_0699,Amazing doctors and nurses. They really care about patients.
+PATIENT_0700,The experience was acceptable but unremarkable.
+PATIENT_0701,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0702,Very knowledgeable doctor. Great communication and support.
+PATIENT_0703,It was just a regular doctor's visit.
+PATIENT_0704,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0705,Felt rushed during my appointment. Not satisfied.
+PATIENT_0706,"It was fine, nothing to complain about."
+PATIENT_0707,Waste of time and money. Very unhelpful staff.
+PATIENT_0708,The doctor was adequate in their approach.
+PATIENT_0709,Would give negative stars if possible. Terrible experience.
+PATIENT_0710,It was just a regular doctor's visit.
+PATIENT_0711,Amazing doctors and nurses. They really care about patients.
+PATIENT_0712,Best healthcare experience I've had. Very impressed!
+PATIENT_0713,Best healthcare experience I've had. Very impressed!
+PATIENT_0714,Top-notch medical services. Highly recommended!
+PATIENT_0715,Waste of time and money. Very unhelpful staff.
+PATIENT_0716,The medical staff treated me with great respect and compassion.
+PATIENT_0717,Top-notch medical services. Highly recommended!
+PATIENT_0718,Decent facilities but could be cleaner.
+PATIENT_0719,The experience was acceptable but unremarkable.
+PATIENT_0720,It was just a regular doctor's visit.
+PATIENT_0721,Top-notch medical services. Highly recommended!
+PATIENT_0722,Dirty facilities and poor organization. Not impressed.
+PATIENT_0723,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0724,Dirty facilities and poor organization. Not impressed.
+PATIENT_0725,The clinic is well-organized and the staff is friendly.
+PATIENT_0726,Would give negative stars if possible. Terrible experience.
+PATIENT_0727,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0728,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0729,Decent facilities but could be cleaner.
+PATIENT_0730,It was an okay experience. Nothing special.
+PATIENT_0731,The medical staff treated me with great respect and compassion.
+PATIENT_0732,Best healthcare experience I've had. Very impressed!
+PATIENT_0733,Poor communication from the medical team.
+PATIENT_0734,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0735,It was an okay experience. Nothing special.
+PATIENT_0736,Very knowledgeable doctor. Great communication and support.
+PATIENT_0737,Top-notch medical services. Highly recommended!
+PATIENT_0738,The experience was acceptable but unremarkable.
+PATIENT_0739,The medical staff treated me with great respect and compassion.
+PATIENT_0740,Would give negative stars if possible. Terrible experience.
+PATIENT_0741,"It was fine, nothing to complain about."
+PATIENT_0742,It was just a regular doctor's visit.
+PATIENT_0743,The experience was acceptable but unremarkable.
+PATIENT_0744,The appointment was standard. Service was average.
+PATIENT_0745,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0746,Poor communication from the medical team.
+PATIENT_0747,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0748,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0749,Top-notch medical services. Highly recommended!
+PATIENT_0750,Felt rushed during my appointment. Not satisfied.
+PATIENT_0751,Unprofessional behavior from the receptionist.
+PATIENT_0752,Very disappointed with the service. Would not return.
+PATIENT_0753,The appointment was standard. Service was average.
+PATIENT_0754,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0755,The appointment was standard. Service was average.
+PATIENT_0756,The treatment was ineffective and expensive.
+PATIENT_0757,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0758,Average service quality. Could be better or worse.
+PATIENT_0759,Dirty facilities and poor organization. Not impressed.
+PATIENT_0760,Decent facilities but could be cleaner.
+PATIENT_0761,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0762,The treatment was ineffective and expensive.
+PATIENT_0763,Decent facilities but could be cleaner.
+PATIENT_0764,Waste of time and money. Very unhelpful staff.
+PATIENT_0765,Outstanding care from the entire team. Thank you so much!
+PATIENT_0766,Unprofessional behavior from the receptionist.
+PATIENT_0767,Poor communication from the medical team.
+PATIENT_0768,"It was fine, nothing to complain about."
+PATIENT_0769,Would give negative stars if possible. Terrible experience.
+PATIENT_0770,Top-notch medical services. Highly recommended!
+PATIENT_0771,It was just a regular doctor's visit.
+PATIENT_0772,The doctor was adequate in their approach.
+PATIENT_0773,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0774,The experience was acceptable but unremarkable.
+PATIENT_0775,Very knowledgeable doctor. Great communication and support.
+PATIENT_0776,The medical staff treated me with great respect and compassion.
+PATIENT_0777,Very knowledgeable doctor. Great communication and support.
+PATIENT_0778,It was just a regular doctor's visit.
+PATIENT_0779,It was an okay experience. Nothing special.
+PATIENT_0780,Outstanding care from the entire team. Thank you so much!
+PATIENT_0781,It was just a regular doctor's visit.
+PATIENT_0782,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0783,Unprofessional behavior from the receptionist.
+PATIENT_0784,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0785,The clinic is well-organized and the staff is friendly.
+PATIENT_0786,Amazing doctors and nurses. They really care about patients.
+PATIENT_0787,Very knowledgeable doctor. Great communication and support.
+PATIENT_0788,Waste of time and money. Very unhelpful staff.
+PATIENT_0789,It was an okay experience. Nothing special.
+PATIENT_0790,Felt rushed during my appointment. Not satisfied.
+PATIENT_0791,Very knowledgeable doctor. Great communication and support.
+PATIENT_0792,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0793,The clinic is well-organized and the staff is friendly.
+PATIENT_0794,Amazing doctors and nurses. They really care about patients.
+PATIENT_0795,Top-notch medical services. Highly recommended!
+PATIENT_0796,Poor communication from the medical team.
+PATIENT_0797,It was an okay experience. Nothing special.
+PATIENT_0798,The medical staff treated me with great respect and compassion.
+PATIENT_0799,Would give negative stars if possible. Terrible experience.
+PATIENT_0800,The treatment was ineffective and expensive.
+PATIENT_0801,"It was fine, nothing to complain about."
+PATIENT_0802,Standard healthcare service. Met my basic needs.
+PATIENT_0803,Waste of time and money. Very unhelpful staff.
+PATIENT_0804,Best healthcare experience I've had. Very impressed!
+PATIENT_0805,It was just a regular doctor's visit.
+PATIENT_0806,Very knowledgeable doctor. Great communication and support.
+PATIENT_0807,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0808,The treatment was ineffective and expensive.
+PATIENT_0809,Standard healthcare service. Met my basic needs.
+PATIENT_0810,"It was fine, nothing to complain about."
+PATIENT_0811,The experience was acceptable but unremarkable.
+PATIENT_0812,The appointment was standard. Service was average.
+PATIENT_0813,Would give negative stars if possible. Terrible experience.
+PATIENT_0814,Amazing doctors and nurses. They really care about patients.
+PATIENT_0815,Very disappointed with the service. Would not return.
+PATIENT_0816,It was an okay experience. Nothing special.
+PATIENT_0817,Very disappointed with the service. Would not return.
+PATIENT_0818,Best healthcare experience I've had. Very impressed!
+PATIENT_0819,Best healthcare experience I've had. Very impressed!
+PATIENT_0820,Top-notch medical services. Highly recommended!
+PATIENT_0821,Dirty facilities and poor organization. Not impressed.
+PATIENT_0822,The experience was acceptable but unremarkable.
+PATIENT_0823,Dirty facilities and poor organization. Not impressed.
+PATIENT_0824,Poor communication from the medical team.
+PATIENT_0825,The experience was acceptable but unremarkable.
+PATIENT_0826,The experience was acceptable but unremarkable.
+PATIENT_0827,Decent facilities but could be cleaner.
+PATIENT_0828,Felt rushed during my appointment. Not satisfied.
+PATIENT_0829,Would give negative stars if possible. Terrible experience.
+PATIENT_0830,Unprofessional behavior from the receptionist.
+PATIENT_0831,Standard healthcare service. Met my basic needs.
+PATIENT_0832,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0833,It was just a regular doctor's visit.
+PATIENT_0834,Terrible experience. Long wait times and rude staff.
+PATIENT_0835,Top-notch medical services. Highly recommended!
+PATIENT_0836,Poor communication from the medical team.
+PATIENT_0837,Outstanding care from the entire team. Thank you so much!
+PATIENT_0838,"It was fine, nothing to complain about."
+PATIENT_0839,Very disappointed with the service. Would not return.
+PATIENT_0840,Terrible experience. Long wait times and rude staff.
+PATIENT_0841,The medical staff treated me with great respect and compassion.
+PATIENT_0842,Very knowledgeable doctor. Great communication and support.
+PATIENT_0843,Very disappointed with the service. Would not return.
+PATIENT_0844,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0845,Best healthcare experience I've had. Very impressed!
+PATIENT_0846,Average service quality. Could be better or worse.
+PATIENT_0847,Top-notch medical services. Highly recommended!
+PATIENT_0848,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0849,The treatment was ineffective and expensive.
+PATIENT_0850,Top-notch medical services. Highly recommended!
+PATIENT_0851,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0852,Felt rushed during my appointment. Not satisfied.
+PATIENT_0853,Unprofessional behavior from the receptionist.
+PATIENT_0854,Standard healthcare service. Met my basic needs.
+PATIENT_0855,Outstanding care from the entire team. Thank you so much!
+PATIENT_0856,Average service quality. Could be better or worse.
+PATIENT_0857,Waste of time and money. Very unhelpful staff.
+PATIENT_0858,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0859,Average service quality. Could be better or worse.
+PATIENT_0860,Best healthcare experience I've had. Very impressed!
+PATIENT_0861,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0862,"It was fine, nothing to complain about."
+PATIENT_0863,The doctor was adequate in their approach.
+PATIENT_0864,Average service quality. Could be better or worse.
+PATIENT_0865,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0866,Would give negative stars if possible. Terrible experience.
+PATIENT_0867,Decent facilities but could be cleaner.
+PATIENT_0868,The medical staff treated me with great respect and compassion.
+PATIENT_0869,Unprofessional behavior from the receptionist.
+PATIENT_0870,Very knowledgeable doctor. Great communication and support.
+PATIENT_0871,The doctor was adequate in their approach.
+PATIENT_0872,Felt rushed during my appointment. Not satisfied.
+PATIENT_0873,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0874,Standard healthcare service. Met my basic needs.
+PATIENT_0875,The clinic is well-organized and the staff is friendly.
+PATIENT_0876,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0877,Best healthcare experience I've had. Very impressed!
+PATIENT_0878,The doctor was adequate in their approach.
+PATIENT_0879,The appointment was standard. Service was average.
+PATIENT_0880,Dirty facilities and poor organization. Not impressed.
+PATIENT_0881,Best healthcare experience I've had. Very impressed!
+PATIENT_0882,Average service quality. Could be better or worse.
+PATIENT_0883,Poor communication from the medical team.
+PATIENT_0884,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0885,It was just a regular doctor's visit.
+PATIENT_0886,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0887,Top-notch medical services. Highly recommended!
+PATIENT_0888,Best healthcare experience I've had. Very impressed!
+PATIENT_0889,Felt rushed during my appointment. Not satisfied.
+PATIENT_0890,Average service quality. Could be better or worse.
+PATIENT_0891,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0892,Best healthcare experience I've had. Very impressed!
+PATIENT_0893,Waste of time and money. Very unhelpful staff.
+PATIENT_0894,Average service quality. Could be better or worse.
+PATIENT_0895,Top-notch medical services. Highly recommended!
+PATIENT_0896,Decent facilities but could be cleaner.
+PATIENT_0897,Average service quality. Could be better or worse.
+PATIENT_0898,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0899,Top-notch medical services. Highly recommended!
+PATIENT_0900,The clinic is well-organized and the staff is friendly.
+PATIENT_0901,Would give negative stars if possible. Terrible experience.
+PATIENT_0902,It was just a regular doctor's visit.
+PATIENT_0903,Outstanding care from the entire team. Thank you so much!
+PATIENT_0904,The medical staff treated me with great respect and compassion.
+PATIENT_0905,Terrible experience. Long wait times and rude staff.
+PATIENT_0906,Dirty facilities and poor organization. Not impressed.
+PATIENT_0907,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0908,Standard healthcare service. Met my basic needs.
+PATIENT_0909,Amazing doctors and nurses. They really care about patients.
+PATIENT_0910,The experience was acceptable but unremarkable.
+PATIENT_0911,Amazing doctors and nurses. They really care about patients.
+PATIENT_0912,The clinic is well-organized and the staff is friendly.
+PATIENT_0913,Felt very welcome and well taken care of. Excellent experience!
+PATIENT_0914,The doctor was adequate in their approach.
+PATIENT_0915,Decent facilities but could be cleaner.
+PATIENT_0916,"It was fine, nothing to complain about."
+PATIENT_0917,The treatment was ineffective and expensive.
+PATIENT_0918,It was just a regular doctor's visit.
+PATIENT_0919,It was just a regular doctor's visit.
+PATIENT_0920,The experience was acceptable but unremarkable.
+PATIENT_0921,The appointment was standard. Service was average.
+PATIENT_0922,Terrible experience. Long wait times and rude staff.
+PATIENT_0923,The clinic is well-organized and the staff is friendly.
+PATIENT_0924,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0925,Amazing doctors and nurses. They really care about patients.
+PATIENT_0926,Top-notch medical services. Highly recommended!
+PATIENT_0927,Outstanding care from the entire team. Thank you so much!
+PATIENT_0928,Best healthcare experience I've had. Very impressed!
+PATIENT_0929,The appointment was standard. Service was average.
+PATIENT_0930,"It was fine, nothing to complain about."
+PATIENT_0931,The treatment was ineffective and expensive.
+PATIENT_0932,Unprofessional behavior from the receptionist.
+PATIENT_0933,Standard healthcare service. Met my basic needs.
+PATIENT_0934,Top-notch medical services. Highly recommended!
+PATIENT_0935,Decent facilities but could be cleaner.
+PATIENT_0936,The treatment was ineffective and expensive.
+PATIENT_0937,Outstanding care from the entire team. Thank you so much!
+PATIENT_0938,The doctor was adequate in their approach.
+PATIENT_0939,Outstanding care from the entire team. Thank you so much!
+PATIENT_0940,Standard healthcare service. Met my basic needs.
+PATIENT_0941,Very knowledgeable doctor. Great communication and support.
+PATIENT_0942,Outstanding care from the entire team. Thank you so much!
+PATIENT_0943,Top-notch medical services. Highly recommended!
+PATIENT_0944,"It was fine, nothing to complain about."
+PATIENT_0945,Unprofessional behavior from the receptionist.
+PATIENT_0946,Would give negative stars if possible. Terrible experience.
+PATIENT_0947,Top-notch medical services. Highly recommended!
+PATIENT_0948,Felt rushed during my appointment. Not satisfied.
+PATIENT_0949,Standard healthcare service. Met my basic needs.
+PATIENT_0950,Very disappointed with the service. Would not return.
+PATIENT_0951,Unprofessional behavior from the receptionist.
+PATIENT_0952,It was an okay experience. Nothing special.
+PATIENT_0953,Amazing doctors and nurses. They really care about patients.
+PATIENT_0954,It was just a regular doctor's visit.
+PATIENT_0955,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0956,It was an okay experience. Nothing special.
+PATIENT_0957,Average service quality. Could be better or worse.
+PATIENT_0958,Felt rushed during my appointment. Not satisfied.
+PATIENT_0959,Terrible experience. Long wait times and rude staff.
+PATIENT_0960,The treatment was ineffective and expensive.
+PATIENT_0961,Poor communication from the medical team.
+PATIENT_0962,"It was fine, nothing to complain about."
+PATIENT_0963,The treatment was ineffective and expensive.
+PATIENT_0964,The experience was acceptable but unremarkable.
+PATIENT_0965,Dirty facilities and poor organization. Not impressed.
+PATIENT_0966,The clinic is well-organized and the staff is friendly.
+PATIENT_0967,Average service quality. Could be better or worse.
+PATIENT_0968,Terrible experience. Long wait times and rude staff.
+PATIENT_0969,Best healthcare experience I've had. Very impressed!
+PATIENT_0970,The doctor was adequate in their approach.
+PATIENT_0971,Outstanding care from the entire team. Thank you so much!
+PATIENT_0972,Felt rushed during my appointment. Not satisfied.
+PATIENT_0973,Average service quality. Could be better or worse.
+PATIENT_0974,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0975,Would give negative stars if possible. Terrible experience.
+PATIENT_0976,The appointment was standard. Service was average.
+PATIENT_0977,Very disappointed with the service. Would not return.
+PATIENT_0978,The experience was acceptable but unremarkable.
+PATIENT_0979,Waste of time and money. Very unhelpful staff.
+PATIENT_0980,Amazing doctors and nurses. They really care about patients.
+PATIENT_0981,Average service quality. Could be better or worse.
+PATIENT_0982,Very knowledgeable doctor. Great communication and support.
+PATIENT_0983,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0984,The experience was acceptable but unremarkable.
+PATIENT_0985,It was just a regular doctor's visit.
+PATIENT_0986,Dirty facilities and poor organization. Not impressed.
+PATIENT_0987,The doctor was adequate in their approach.
+PATIENT_0988,Unprofessional behavior from the receptionist.
+PATIENT_0989,Unprofessional behavior from the receptionist.
+PATIENT_0990,Neutral experience. Staff was neither helpful nor rude.
+PATIENT_0991,"It was fine, nothing to complain about."
+PATIENT_0992,Excellent service and clean facilities. Would recommend to everyone.
+PATIENT_0993,The doctor was very professional and caring. Highly satisfied!
+PATIENT_0994,The appointment was standard. Service was average.
+PATIENT_0995,The doctor was dismissive and didn't listen to my concerns.
+PATIENT_0996,It was an okay experience. Nothing special.
+PATIENT_0997,Would give negative stars if possible. Terrible experience.
+PATIENT_0998,Waste of time and money. Very unhelpful staff.
+PATIENT_0999,Outstanding care from the entire team. Thank you so much!
+PATIENT_1000,Very disappointed with the service. Would not return.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,Excellent care and attention to detail.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,Poor experience. Staff was rude and unhelpful.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Terrible wait times and no empathy.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Terrible wait times and no empathy.
+,Excellent care and attention to detail.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Terrible wait times and no empathy.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Poor experience. Staff was rude and unhelpful.
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,The healthcare provided was adequate but nothing exceptional.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Terrible wait times and no empathy.
+,Terrible wait times and no empathy.
+,Average visit. Nothing special.
+,Poor experience. Staff was rude and unhelpful.
+,Excellent care and attention to detail.
+,Excellent care and attention to detail.
+,Terrible wait times and no empathy.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,The healthcare provided was adequate but nothing exceptional.
+,The healthcare provided was adequate but nothing exceptional.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The doctor was incredibly helpful and thorough. Highly recommend!
+,Average visit. Nothing special.
+,The healthcare provided was adequate but nothing exceptional.
+,Not impressed with the overall service.
+,doctor was very attentive and kind.
+,The waiting area was uncomfortable and crowded.
+,Staff seemed disorganized and unprepared.
+,The medical team provided excellent care throughout my visit.
+,The waiting area was uncomfortable and crowded.
+,Staff seemed disorganized and unprepared.
+,The waiting area was uncomfortable and crowded.
+,Not impressed with the overall service.
+,hospital staff were rude and unhelpful.
+,Average service quality. Could be better .
+,======.
+,------.
+,085$%^%
+, سدجدچگکدچگچدجکچدگئکدجکچبد\
+,to the is
